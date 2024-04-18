@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá! Eu sou o Johnny Araújo 🚀
+<ul type ="square"> 
+<li>Cursando Desenvolvimento de Sistema </li>
+<li>Atualmente estudando HTML5, CSS3 e C</li></ul>
 
-<!--
-**JohnnyA97/JohnnyA97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div> <img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
+ <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white>
+ <img src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 
-Here are some ideas to get you started:
+### <br> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Johnny GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnyA97&theme=algolia&show_icons=true)<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnny-ara%C3%BAjo-59485b2ba/)
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail/0/)
